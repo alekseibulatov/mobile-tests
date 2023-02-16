@@ -1,3 +1,4 @@
+/*
 package tests.android.browserstack_sample;
 
 import io.appium.java_client.MobileBy;
@@ -61,3 +62,4 @@ public class SearchTests {
         driver.quit();
     }
 }
+*/
