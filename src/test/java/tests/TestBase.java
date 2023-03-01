@@ -1,4 +1,4 @@
-package tests.android.selenide;
+package tests;
 
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.logevents.SelenideLogger;
@@ -11,7 +11,7 @@ import org.junit.jupiter.api.BeforeEach;
 
 import static com.codeborne.selenide.Selenide.*;
 
-class TestBase {
+public class TestBase {
 
     @BeforeAll
     static void beforeAll() {
